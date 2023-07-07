@@ -373,6 +373,7 @@ h3 {
 }
 .about-col img{
   width: 100%;
+  box-sizing: border-box;
 }
 .about-col h1{
   padding-top: 0;
